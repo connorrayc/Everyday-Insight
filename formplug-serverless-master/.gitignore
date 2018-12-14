@@ -1,0 +1,13 @@
+# Misc
+*.log
+
+# Package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Formplug
+project.txt
+config.json
